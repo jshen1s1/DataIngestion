@@ -1,5 +1,5 @@
 file_type: csv
-dataset_name: testfile
+dataset_name: full_spotify_playlist
 file_name: full_spotify_playlist
 table_name: edsurv
 inbound_delimiter: ","
